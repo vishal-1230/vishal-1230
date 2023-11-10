@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left" style="font-size: '24px';">🔭 I’m currently working on Humanize.AI<br><br>🌱 I’m currently learning tRPCs & GraphQL<br><br>👨‍💻 All of my projects are available at https://externs.tech<br><br>💬 Ask me about React, Typescript, Flask, Docker, Bash, NodeJS, Hybrid Mobile (React Native), Databases (MySQL, NoSQL, Vector) & ofcourse much more<br><br>📫 How to reach me vishalvishwajeet422@gmail.com<br><br>📄 Know about my experiences https://resume.io/r/5XG2Hkkna<br><br>⚡ Fun fact - If you're a Girl, It would be cool to know that I'm single rn</p>
+<p align="left" style="font-size: '24px';">🔭 I’m currently working on Humanize.AI<br><br>🌱 I’m currently learning tRPCs & GraphQL<br><br>👨‍💻 All of my projects are available at https://externs.tech<br><br>💬 Ask me about React, Typescript, Flask, Docker, Bash, NodeJS, Hybrid Mobile (React Native), Databases (MySQL, NoSQL, Vector) & ofcourse much more<br><br>📫 How to reach me vishalvishwajeet422@gmail.com<br><br>📄 Know about my experiences https://resume.io/r/5XG2Hkkna<br><br>⚡ Fun fact - If you're a Girl, It's a bonus, I'm single right now :)</p>
 
 ###
 
